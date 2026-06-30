@@ -1,0 +1,6 @@
+{
+  "name": "Mahany Dote Studio",
+  "description": "Luxury beauty and clinical aesthetics studio web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
