@@ -93,7 +93,9 @@ export function Contact() {
           <div className="aspect-[4/3] w-full border border-outline-variant overflow-hidden">
             <iframe
               title="Ubicación Mahany Dote Studio"
-              src="https://www.openstreetmap.org/export/embed.html?bbox=-70.780%2C-33.531%2C-70.736%2C-33.495&layer=mapnik&marker=-33.513%2C-70.758"
+              src="https://maps.google.com/maps?q=Monumento+190,+Maipú,+Chile&t=&z=16&ie=UTF8&iwloc=&output=embed"
+              referrerPolicy="no-referrer-when-downgrade"
+              allowFullScreen
               width="100%"
               height="100%"
               style={{ border: 0, filter: "grayscale(0.3) contrast(0.95)" }}
